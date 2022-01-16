@@ -2,5 +2,9 @@
     "104.255.230.130": {
         "blacklisted": "true",
         "reason": "This is a test"
+    },
+    "127.0.0.1": {
+        "blacklisted": "true",
+        "reason": "This is a test2"
     }
 }
