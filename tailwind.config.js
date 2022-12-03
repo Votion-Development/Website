@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./pages/**/*.js'],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        chamber: 'rgb(11, 11, 11)',
+      }
+    },
   },
   plugins: [],
 }
